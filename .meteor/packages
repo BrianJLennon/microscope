@@ -22,3 +22,5 @@ underscore
 iron:router
 sacha:spin
 ejson
+ian:accounts-ui-bootstrap-3
+accounts-password
